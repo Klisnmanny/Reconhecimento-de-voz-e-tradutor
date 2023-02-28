@@ -2,5 +2,4 @@
 
 Ultilizando
 
-Web Speech API 
-API do Google Translate
+Web Speech API  e API do Google Translate
